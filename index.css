@@ -1,0 +1,17 @@
+*{margin: 0; padding: 0}
+body{font-family: arial}
+.main{width: 700px;margin: 0 auto}
+.header{}
+.header img{width: 700px; height: auto}
+.mainmenu{background: red;overflow: hidden; margin-bottom: 20px}
+.mainmenu ul{list-style: none}
+.mainmenu ul li{float: left}
+.mainmenu ul li a{color: aqua;padding: 10px;display: block;text-decoration: none}
+.mainmenu ul li a:hover{background: blue}
+.maincontent{overflow: hidden}
+.maincontent h1{margin: 10px}
+.maincontent p{margin: 10px}
+.content {width: 410px;float: left}
+.sidebar{float: right; width: 250px; margin-left: 20px;}
+.sidebar ul{ list-style: none}
+.footer{background: green; color: aqua; padding: 10px; text-align: center}
